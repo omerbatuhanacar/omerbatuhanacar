@@ -6,3 +6,5 @@
 
 <h3 align="left">Kullandığım yazılım dilleri:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+
+![snake gif](https://github.com/omerbatuhanacar/omerbatuhanacar/blob/output/github-contribution-grid-snake.gif)
